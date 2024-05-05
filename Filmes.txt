@@ -21,6 +21,8 @@ begin
 end$
 delimiter ;
 
+insert into Filmes (titulo, minutos) values ("Gojira Minus One", -54); 
+
 create table Log_deletions (
 id int primary key auto_increment,
 titulo varchar(60),
