@@ -1,4 +1,4 @@
-# Atividade-de-classe-06-06 TRIGGER Exercício 1/2
+# Atividade-de-classe-06-05 TRIGGER Exercício 1/2
 
 # Descrição da atividade
 
