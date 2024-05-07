@@ -9,7 +9,7 @@ minutos int
 delimiter $
 create trigger chk_minutos 
 before insert on Filmes
-for each rowblo
+for each row
 begin
 	if new.minutos <0 then
     
